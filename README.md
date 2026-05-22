@@ -4,6 +4,10 @@ ANNO XTractor is a small local web tool for extracting screenshots and training 
 
 The app uses FFmpeg as the primary extraction backend and can fall back to OpenCV when available.
 
+## Screenshots
+
+![ANNO XTractor UI](screenshots/screenshot1.jpeg)
+
 ## Features
 
 - Upload a video through a local Gradio interface
